@@ -1,0 +1,6 @@
+.venv/Lib
+.idea/modules.xml
+.idea/selenium_stepik.iml
+.idea/workspace.xml
+.idea/.name
+.venv/
