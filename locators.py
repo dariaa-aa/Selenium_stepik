@@ -1,0 +1,8 @@
+Logo = ('xpath', '//*[contains(@class, 'middle')]')
+Go = ('xpath', '//a[text()="Go "]')
+All_tracks = ('xpath', '//a[text()="All tracks "]')
+Certificate = ('xpath', '//a[@aria-label="Python Core"]//div[@class="card-badges"]')
+Google_play = ('xpath', '//img[@alt="Get it on Google Play"]')
+Content_Creators = ('xpath', '//a[text()="For Content Creators"]')
+Navigation = ('xpath', '(//a[@class="nav-link"])[4]')
+Business = ('xpath', '(//li//a[text()=" For Business "]')
